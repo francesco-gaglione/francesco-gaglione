@@ -3,7 +3,7 @@
 👋 Hi, I'm Francesco, a team/technical lead in web3 projects from Italy 
 
 [![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=francesco-gaglione&count_private=true&show_icons=true&theme=radical)](https://github.com/francesco-gaglione)
-
+![GitHub Rank](https://github-ranked.vercel.app/api/rank/francesco-gaglione)
 ### About
 
 -  **Role :** Team/Technical lead | Full-Stack Development :zap: | Open-Source :fire:    
